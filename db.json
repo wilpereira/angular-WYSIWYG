@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "conteudo": "\n\t\t<strong style=\"display: block;\">Prezado cliente: solicitamos sua atenção para a pendência abaixo e o prazo para que a correção/informação nos\n\t\tseja enviada.</strong>\n\t\t<strong style=\"display: block;\">Caso o prazo expire sem o recebimento da correção/informação, o embarque será retornado ao exportador.</strong>\n\n\t\t<strong style=\"display: block;\">PRAZO:</strong>\n\t\t<strong style=\"display: block;\">FedEx AWB</strong>\n\n\t\t<strong style=\"display: block;\">Boa tarde,</strong>\n\t\t<strong style=\"display: block;\">Referente ao embarque FedEx acima citado, após análises dos documentos para emissão da DU-E no Portal Único\n\t\tda Receita Federal, foi constatada seguinte divergência:</strong>\n\t",
+      "id": 3
+    }
+  ]
+}
